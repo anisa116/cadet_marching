@@ -1,0 +1,76 @@
+{
+  "User": [
+    {
+      "id": 1,
+      "email": "zulfa",
+      "password": "1234"
+    },
+    {
+      "email": "hindi",
+      "password": "0987",
+      "id": 2
+    },
+    {
+      "email": "aulia",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "email": "zulfa",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "email": "21",
+      "password": "21",
+      "id": 5
+    },
+    {
+      "email": "Anisa",
+      "password": "2110",
+      "id": 6
+    },
+    {
+      "email": "Anisa",
+      "password": "2110",
+      "id": 7
+    },
+    {
+      "email": "Qorina",
+      "password": "1",
+      "id": 8
+    }
+  ],
+  "mb": {
+    "data": [
+      {
+        "id": 1,
+        "name": "Mellophone",
+        "price": 5000000,
+        "description": "Well balanced All Yamaha marching instruments as well-balanced so they are easy to hold maneuver while marching",
+        "picture": "https://media.istockphoto.com/id/1246945030/id/foto/golden-mellophone-mellophone-instrumen-musik-kuningan-terisolasi-di-latar-belakang-putih.jpg?s=612x612&w=is&k=20&c=6Fq3HKwwtp4GDSnEVhCzsPGY4VaBP1zzdfE3zhbiyVw="
+      },
+      {
+        "id": 2,
+        "name": "Bassdrum",
+        "price": 10000000,
+        "description": "Well balanced All Yamaha marching instruments as well-balanced so they are easy to hold maneuver while marching",
+        "picture": "https://media.istockphoto.com/id/1182851239/id/foto/bass-drum-terisolasi-pada-latar-belakang-putih.jpg?s=612x612&w=is&k=20&c=UPZB1ewn6mZZZ4V8Hor9fU71tQuKmzXKv4sDlI9Yxk4="
+      },
+      {
+        "id": 3,
+        "name": "Snare",
+        "price": 8000000,
+        "description": "Well balanced All Yamaha marching instruments as well-balanced so they are easy to hold maneuver while marching",
+        "picture": "https://pixy.org/src2/651/thumbs350/6513634.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Marimba",
+        "price": 15000000,
+        "description": "Well balanced All Yamaha marching instruments as well-balanced so they are easy to hold maneuver while marching",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Marimba_One_4000_Series.jpg/1200px-Marimba_One_4000_Series.jpg"
+      }
+    ]
+  }
+}
